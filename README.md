@@ -63,4 +63,4 @@ def predict_next(history):
 # Run prediction
 prediction = predict_next(bdg_history)
 print("Next Prediction:")
-print(prediction)
+print(prediction) 
